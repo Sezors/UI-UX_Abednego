@@ -4,4 +4,3 @@
 - Sebelum comit dan push ke brach master, alangkah baik nya jika ingin mengubah-ubah atau memperbaiki bisa si brach developer terlebih dahulu, lalu jika di rasa sudah baik baru bisa di merge menjadi satu.
 - Jika terjadi conflict bisa di selesaikan dengan mencari jalan tengah dan yang terbaik.
 
-# (4)
